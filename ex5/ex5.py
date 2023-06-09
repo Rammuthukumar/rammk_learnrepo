@@ -1,4 +1,4 @@
-#puthon program to read a json file
+#python program to read a json file
 
 import json
 
